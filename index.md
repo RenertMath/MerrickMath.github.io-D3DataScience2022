@@ -1,37 +1,34 @@
-## Welcome to GitHub Pages
 
-You can use the [editor on GitHub](https://github.com/MerrickMath/MerrickMath.github.io-D3DataScience2022/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+Welcome to Understanding Statistics. Through this course your analytial skills will be put to the test. Do you think you have what it takes?  
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+<p align="center">
+<div class="tenor-gif-embed" data-postid="13380207" data-share-method="host" data-aspect-ratio="2.4" data-width="100%"><a href="https://tenor.com/view/star-wars-anakin-this-is-where-the-fun-begins-gif-13380207">Star Wars Anakin GIF</a>from <a href="https://tenor.com/search/star+wars-gifs">Star Wars GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
+</p>
 
-### Markdown
+In this class we will be exploring real world data, creating reports, presentations, and more. 
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+For the first class you may attempt any of the following activites: 
+<p>
+      <ul>
+        <li><a href="https://merrickmath.github.io/MerrickMath.github.io-UnderstandingStatistics/challenge1.html"> The Road Mordor </a> </li>
+        <li><a href="https://merrickmath.github.io/MerrickMath.github.io-PokemonChallenge/"> Pokemon Challenge </a> </li>
+        <li><a href="https://merrickmath.github.io/MerrickMath.github.io-UnderstandingStatistics/challenge2.html"> Exploratory Data Analysis </a> </li>
+      </ul>
+</p>
 
-```markdown
-Syntax highlighted code block
+---
 
-# Header 1
-## Header 2
-### Header 3
+Many of the challenges will require the use of R Studio. If you want to download this on your home computer you must first download base R <a href="https://www.r-project.org"> here </a> and then use <a href="https://rstudio.com/products/rstudio/download/"> this link </a> to download R Stuido. This can be a little confusing. I can give you a more thourough explanation in class. If you want to try on your own I encourage you to get your parents to help install the program at home. Haveing R Studio installed will be **extremely helpful**, as it will allow you to conduct analysis from home. 
 
-- Bulleted
-- List
+What Data are you interested in exploring? LET ME KNOW! 
 
-1. Numbered
-2. List
+---
 
-**Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
-```
+**Datasets:** Some interesting datasets can be found at  <a href="https://drive.google.com/drive/folders/1lQuOh4jgyZ4GioinfvCYvqRxbOgDn6Be?usp=sharing"> here </a>
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
+___
 
-### Jekyll Themes
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/MerrickMath/MerrickMath.github.io-D3DataScience2022/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
-### Support or Contact
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
