@@ -11,8 +11,8 @@ In this class we will be exploring real world data, creating reports, presentati
 For the first class you may attempt any of the following activites: 
 <p>
       <ul>
-        <li><a href="https://merrickmath.github.io/MerrickMath.github.io-D3DataaScience2022/challenge1.html"> The Road Mordor </a> </li>
         <li><a href="https://merrickmath.github.io/MerrickMath.github.io-D3DataaScience2022/Activities/SuperHeroIntro.pdf"> Super Hero Intro </a> </li>
+        <li><a href="https://merrickmath.github.io/MerrickMath.github.io-D3DataaScience2022/challenge1.html"> The Road Mordor </a> </li>
       </ul>
 </p>
 
