@@ -2,7 +2,9 @@
 Welcome to EXPLORING A WORLD OF DATA. Through this course your analytial skills will be put to the test. Do you think you have what it takes?  
 
 <p align="center">
-<div class="tenor-gif-embed" data-postid="13380207" data-share-method="host" data-aspect-ratio="2.4" data-width="100%"><a href="https://tenor.com/view/star-wars-anakin-this-is-where-the-fun-begins-gif-13380207">Star Wars Anakin GIF</a>from <a href="https://tenor.com/search/star+wars-gifs">Star Wars GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
+
+<iframe src="https://giphy.com/embed/Cu0Iqwal4cPyU" width="100%" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/the-lord-of-rings-hobbit-gandalf-Cu0Iqwal4cPyU">via GIPHY</a></p>
+
 </p>
 
 In this class we will be exploring real world data, creating reports, presentations, and more. 
