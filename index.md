@@ -21,7 +21,6 @@ For the first class you may attempt any of the following activites:
 <p>
       <ul>
         <li><a href="https://merrickmath.github.io/MerrickMath.github.io-D3DataScience2022/Tutorials/IntroClass.html"> Intro Class </a> </li>
-        <li><a href="https://merrickmath.github.io/MerrickMath.github.io-D3DataScience2022/Tutorials/PythonPractice.html"> Test </a> </li>
       </ul>
 </p>
 
