@@ -18,6 +18,14 @@ For the first class you may attempt any of the following activites:
 
 ---
 
+### Tutorials 
+<p>
+      <ul>
+        <li><a href="https://merrickmath.github.io/MerrickMath.github.io-D2DataScience2022/Tutorials/IntroClass.html"> Intro Class </a> </li>
+        <li><a href="https://merrickmath.github.io/MerrickMath.github.io-D2DataScience2022/Tutorials/PythonPractice.html"> Test </a> </li>
+      </ul>
+</p>
+
 Many of the challenges will require the use of R Studio. In this course we will conduct our data analysis using R Studio which can be accessed via the  <a href="https://jupyter.renert.housegordon.com"> Renert Jupyter Server</a>. 
 
 What Data are you interested in exploring? LET ME KNOW! 
