@@ -14,6 +14,8 @@ Activities:
         <li><a href="https://merrickmath.github.io/MerrickMath.github.io-D3DataScience2022/Activities/SuperHeroIntro.pdf"> Super Hero Intro </a> </li>
         <li><a href="https://merrickmath.github.io/MerrickMath.github.io-D2DataScience2022/challenge1.html"> The Road Mordor (20 XP) </a> </li>
         <li><a href="https://docs.google.com/forms/d/e/1FAIpQLScRTXAveiOzcClXfHB_X2g4RSsnCypqOgUfYm-Tz8H-82S46Q/viewform?usp=sf_link"> First Class Survey (10 XP) </a> </li>
+       <!--- <li><a href="https://merrickmath.github.io/MerrickMath.github.io-D3DataScience2022/Activities/Week2.pdf"> Exploring Music I </a> </li> --->
+       <!--- <li><a href="https://merrickmath.github.io/MerrickMath.github.io-D3DataScience2022/Activities/Week2Soln.pdf"> Exploring Music I SOLUTIONS </a> </li> --->     
       </ul>
 </p>
 
@@ -23,6 +25,16 @@ Activities:
 <p>
       <ul>
         <li><a href="https://merrickmath.github.io/MerrickMath.github.io-D3DataScience2022/Tutorials/IntroClass.html"> Intro Class </a> </li>
+        <!--- <li><a href="https://merrickmath.github.io/MerrickMath.github.io-D3DataScience2022/Tutorials/Week2.html"> Week 2:  </a> </li> --->
+        <!--- <li><a href="https://merrickmath.github.io/MerrickMath.github.io-D3DataScience2022/Tutorials/Week3.html"> Week 3:  </a> </li> --->
+        <!--- <li><a href="https://merrickmath.github.io/MerrickMath.github.io-D3DataScience2022/Tutorials/Week4.html"> Week 4:  </a> </li> --->
+        <!--- <li><a href="https://merrickmath.github.io/MerrickMath.github.io-D3DataScience2022/Tutorials/Week5.html"> Week 5:  </a> </li> --->
+        <!--- <li><a href="https://merrickmath.github.io/MerrickMath.github.io-D3DataScience2022/Tutorials/Week6.html"> Week 6:  </a> </li> --->
+        <!--- <li><a href="https://merrickmath.github.io/MerrickMath.github.io-D3DataScience2022/Tutorials/Week7.html"> Week 7:  </a> </li> --->
+        <!--- <li><a href="https://merrickmath.github.io/MerrickMath.github.io-D3DataScience2022/Tutorials/Week8.html"> Week 8:  </a> </li> --->
+        <!--- <li><a href="https://merrickmath.github.io/MerrickMath.github.io-D3DataScience2022/Tutorials/Week9.html"> Week 9:  </a> </li> --->
+        <!--- <li><a href="https://merrickmath.github.io/MerrickMath.github.io-D3DataScience2022/Tutorials/Week10.html"> Week 10:  </a> </li> --->
+        <!--- <li><a href="https://merrickmath.github.io/MerrickMath.github.io-D3DataScience2022/Tutorials/Week11.html"> Week 11:  </a> </li> --->
       </ul>
 </p>
 
