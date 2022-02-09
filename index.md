@@ -1,12 +1,10 @@
 
-Welcome to Introduction to Data Science. Through this course your analytial skills will be put to the test. Do you think you have what it takes?  
+Welcome to Introduction to Data Science. Through this course your analytial skills will be put to the test. Do you think you have what it takes? In this class we will be exploring real world data, creating reports, presentations, and more.  
 
 <!--- <p align="center">
 <div class="tenor-gif-embed" data-postid="24166770" data-share-method="host" data-aspect-ratio="1.40351" data-width="75%"><a href="https://tenor.com/view/date-everywhere-data-digital-marketing-gif-24166770">Date Everywhere Data GIF</a>from <a href="https://tenor.com/search/date+everywhere-gifs">Date Everywhere GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
 </p> --->
 
-
-In this class we will be exploring real world data, creating reports, presentations, and more. 
 
 Activities: 
 <p>
