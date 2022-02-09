@@ -24,8 +24,8 @@ Activities:
 ### Tutorials 
 <p>
       <ul>
-        <li><a href="https://merrickmath.github.io/MerrickMath.github.io-D3DataScience2022/Tutorials/IntroClass.html"> Intro Class </a> </li>
-        <!--- <li><a href="https://merrickmath.github.io/MerrickMath.github.io-D3DataScience2022/Tutorials/Week2.html"> Week 2:  </a> </li> --->
+        <li><a href="https://merrickmath.github.io/MerrickMath.github.io-D3DataScience2022/Tutorials/IntroClass.html"> Week 1: Entering a list of data, and selecting unique values from the list. </a> </li>
+        <li><a href="https://merrickmath.github.io/MerrickMath.github.io-D3DataScience2022/Tutorials/Week2.html"> Week 2: Loading a csv into R, summarizing the mean of a variable, and visualizing with a histogram. </a> </li> 
         <!--- <li><a href="https://merrickmath.github.io/MerrickMath.github.io-D3DataScience2022/Tutorials/Week3.html"> Week 3:  </a> </li> --->
         <!--- <li><a href="https://merrickmath.github.io/MerrickMath.github.io-D3DataScience2022/Tutorials/Week4.html"> Week 4:  </a> </li> --->
         <!--- <li><a href="https://merrickmath.github.io/MerrickMath.github.io-D3DataScience2022/Tutorials/Week5.html"> Week 5:  </a> </li> --->
