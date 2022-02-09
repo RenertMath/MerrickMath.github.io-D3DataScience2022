@@ -6,7 +6,7 @@ Welcome to Introduction to Data Science. Through this course your analytial skil
 </p> --->
 
 
-Activities: 
+### Activities
 <p>
       <ul>
         <li><a href="https://merrickmath.github.io/MerrickMath.github.io-D3DataScience2022/Activities/SuperHeroIntro.pdf"> Super Hero Intro </a> </li>
