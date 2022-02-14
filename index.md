@@ -5,6 +5,12 @@ Welcome to Introduction to Data Science. Through this course your analytial skil
 <div class="tenor-gif-embed" data-postid="24166770" data-share-method="host" data-aspect-ratio="1.40351" data-width="75%"><a href="https://tenor.com/view/date-everywhere-data-digital-marketing-gif-24166770">Date Everywhere Data GIF</a>from <a href="https://tenor.com/search/date+everywhere-gifs">Date Everywhere GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
 </p> --->
 
+### Jupyter Server
+Many of the challenges will require the use of R Studio. In this course we will conduct our data analysis using R Studio which can be accessed via the  <a href="https://jupyter.renert.housegordon.com"> Renert Jupyter Server</a>. 
+
+What Data are you interested in exploring? LET ME KNOW! 
+
+---
 
 ### Challenges
 <p>
@@ -52,11 +58,6 @@ Welcome to Introduction to Data Science. Through this course your analytial skil
 </p>
 
 ---
-
-### Jupyter Server
-Many of the challenges will require the use of R Studio. In this course we will conduct our data analysis using R Studio which can be accessed via the  <a href="https://jupyter.renert.housegordon.com"> Renert Jupyter Server</a>. 
-
-What Data are you interested in exploring? LET ME KNOW! 
 
 ### Datacamp 
 For this course you will also have the option to work on <a href="https://www.datacamp.com"> Data Camp </a>. This is an EXCELLENT resource for teaching you data anayltic skills from simple excel spread sheets to deep machine learning algorthims. 
