@@ -1,4 +1,4 @@
-## A Trip To Mordor
+## A Trip To Mordor (50 XP)
 Frodo and Sam are attempting to carry the Ring of Power to Mordor to destroy, ridding Middle Earth of Evil. They must stop at multiple spots on their Journey to gather food and supplies. Shown on the map are all possible paths they may take from the Shire to Mordor. They may only follow the arrows in the direction they face. 
 
 * How many ways can they carry the ring from the Shire to Mordor? 
@@ -7,5 +7,3 @@ Frodo and Sam are attempting to carry the Ring of Power to Mordor to destroy, ri
 
 
 <p align="center"> <img class="prof" src="https://merrickmath.github.io/MerrickMath-datachallenge/c1jpg.jpg">   </p>
-
-You may submit your answers using <a href="https://docs.google.com/forms/d/e/1FAIpQLSf7chmcB67xwbOdJeWTTxn_9Odz6ZrlnaJUStq5QyHhCZmPFg/viewform?usp=sf_link"> this form </a>. 
