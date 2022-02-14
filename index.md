@@ -41,6 +41,19 @@ Welcome to Introduction to Data Science. Through this course your analytial skil
       </ul>
 </p>
 
+---
+
+### XP Booster 
+<p>
+      <ul>
+        <!--- <li><a href="https://merrickmath.github.io/MerrickMath.github.io-D3DataScience2022/XPBoost/Week3.pdf"> Week 3  </a> </li> --->
+        <!--- <li><a href="https://merrickmath.github.io/MerrickMath.github.io-D3DataScience2022/XPBoost/Week3Soln.pdf"> Week 3 Solutions  </a> </li> --->
+      </ul>
+</p>
+
+---
+
+### Jupyter Server
 Many of the challenges will require the use of R Studio. In this course we will conduct our data analysis using R Studio which can be accessed via the  <a href="https://jupyter.renert.housegordon.com"> Renert Jupyter Server</a>. 
 
 What Data are you interested in exploring? LET ME KNOW! 
