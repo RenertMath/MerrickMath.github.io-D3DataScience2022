@@ -23,6 +23,8 @@ What Data are you interested in exploring? LET ME KNOW!
       </ul>
 </p>
 
+Challenges may be submitted <a href="https://forms.gle/vvuFyD17StgRBZhJ9"> here. </a> Please note you may only submit an answer for each assignment ONLY ONCE. 
+
 ---
 
 ### Tutorials 
