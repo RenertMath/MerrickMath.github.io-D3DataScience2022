@@ -52,8 +52,8 @@ What Data are you interested in exploring? LET ME KNOW!
 ### XP Booster 
 <p>
       <ul>
-        <!--- <li><a href="https://merrickmath.github.io/MerrickMath.github.io-D3DataScience2022/XPBoost/Week3.pdf"> Week 3  </a> </li> --->
-        <!--- <li><a href="https://merrickmath.github.io/MerrickMath.github.io-D3DataScience2022/XPBoost/Week3Soln.pdf"> Week 3 Solutions  </a> </li> --->
+        <li><a href="https://merrickmath.github.io/MerrickMath.github.io-D3DataScience2022/XPBoost/Week3.pdf"> Week 3  </a> </li> 
+        <li><a href="https://merrickmath.github.io/MerrickMath.github.io-D3DataScience2022/XPBoost/Week3Soln.pdf"> Week 3 Solutions  </a> </li> 
       </ul>
 </p>
 
