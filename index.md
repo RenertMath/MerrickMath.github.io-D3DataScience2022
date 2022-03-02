@@ -18,8 +18,10 @@ What Data are you interested in exploring? LET ME KNOW!
         <li><a href="https://merrickmath.github.io/MerrickMath.github.io-D3DataScience2022/Activities/SuperHeroIntro.pdf"> Super Hero Intro </a> </li>
         <li><a href="https://merrickmath.github.io/MerrickMath.github.io-D2DataScience2022/challenge1.html"> The Road Mordor </a> </li>
         <li><a href="https://docs.google.com/forms/d/e/1FAIpQLScRTXAveiOzcClXfHB_X2g4RSsnCypqOgUfYm-Tz8H-82S46Q/viewform?usp=sf_link"> First Class Survey (10 XP) </a> </li>
-       <li><a href="https://merrickmath.github.io/MerrickMath.github.io-D3DataScience2022/Activities/Week2.pdf"> Exploring Music I </a> </li>
-       <!--- <li><a href="https://merrickmath.github.io/MerrickMath.github.io-D3DataScience2022/Activities/Week2Soln.pdf"> Exploring Music I SOLUTIONS </a> </li> --->     
+       <li><a href="https://merrickmath.github.io/MerrickMath.github.io-D3DataScience2022/Activities/Activity1.pdf"> Exploring Music I </a> </li>
+       <!--- <li><a href="https://merrickmath.github.io/MerrickMath.github.io-D3DataScience2022/Activities/Activity1Soln.pdf"> Exploring Music I SOLUTIONS </a></li> --->   
+       <li><a href="https://merrickmath.github.io/MerrickMath.github.io-D3DataScience2022/Activities/Activity2.pdf"> Exploring Lego I </a> </li>
+       <!--- <li><a href="https://merrickmath.github.io/MerrickMath.github.io-D3DataScience2022/Activities/Activity2Soln.pdf"> Exploring Lego I SOLUTIONS </a></li> ---> 
       </ul>
 </p>
 
@@ -54,8 +56,8 @@ Challenges may be submitted <a href="https://forms.gle/vvuFyD17StgRBZhJ9"> here.
 ### XP Booster 
 <p>
       <ul>
-        <li><a href="https://merrickmath.github.io/MerrickMath.github.io-D3DataScience2022/XPBoost/Week3.pdf"> Week 3  </a> </li> 
-        <li><a href="https://merrickmath.github.io/MerrickMath.github.io-D3DataScience2022/XPBoost/Week3Soln.pdf"> Week 3 Solutions  </a> </li> 
+        <li><a href="https://merrickmath.github.io/MerrickMath.github.io-D3DataScience2022/XPBoost/XPBoost1.pdf"> Week 3  </a> </li> 
+        <li><a href="https://merrickmath.github.io/MerrickMath.github.io-D3DataScience2022/XPBoost/XPBoost1Soln.pdf"> Week 3 Solutions  </a> </li> 
       </ul>
 </p>
 
