@@ -36,20 +36,7 @@ Challenges may be submitted <a href="https://forms.gle/vvuFyD17StgRBZhJ9"> here.
       <ul>
         <li><a href="https://merrickmath.github.io/MerrickMath.github.io-D3DataScience2022/Tutorials/IntroClass.html"> Week 1: Entering a list of data, and selecting unique values from the list. </a> </li>
         <li><a href="https://merrickmath.github.io/MerrickMath.github.io-D3DataScience2022/Tutorials/Week2.html"> Week 2: Loading a csv into R, summarizing the mean of a variable, and visualizing with a histogram. </a> </li> 
-        <!--- <li><a href="https://merrickmath.github.io/MerrickMath.github.io-D3DataScience2022/Tutorials/Week3.html"> Week 3:  </a> </li> --->
-        <!--- <li><a href="https://merrickmath.github.io/MerrickMath.github.io-D3DataScience2022/Tutorials/Week4.html"> Week 4:  </a> </li> --->
-        <!--- <li><a href="https://merrickmath.github.io/MerrickMath.github.io-D3DataScience2022/Tutorials/Week5.html"> Week 5:  </a> </li> --->
-        <!--- <li><a href="https://merrickmath.github.io/MerrickMath.github.io-D3DataScience2022/Tutorials/Week6.html"> Week 6:  </a> </li> --->
-        <!--- <li><a href="https://merrickmath.github.io/MerrickMath.github.io-D3DataScience2022/Tutorials/Week7.html"> Week 7:  </a> </li> --->
-        <!--- <li><a href="https://merrickmath.github.io/MerrickMath.github.io-D3DataScience2022/Tutorials/Week8.html"> Week 8:  </a> </li> --->
-        <!--- <li><a href="https://merrickmath.github.io/MerrickMath.github.io-D3DataScience2022/Tutorials/Week9.html"> Week 9:  </a> </li> --->
-        <!--- <li><a href="https://merrickmath.github.io/MerrickMath.github.io-D3DataScience2022/Tutorials/Week10.html"> Week 10:  </a> </li> --->
-        <!--- <li><a href="https://merrickmath.github.io/MerrickMath.github.io-D3DataScience2022/Tutorials/Week11.html"> Week 11:  </a> </li> --->
-        <!--- <li><a href="https://merrickmath.github.io/MerrickMath.github.io-D3DataScience2022/Tutorials/Week11.html"> Week 12:  </a> </li> --->
-        <!--- <li><a href="https://merrickmath.github.io/MerrickMath.github.io-D3DataScience2022/Tutorials/Week11.html"> Week 13:  </a> </li> --->
-        <!--- <li><a href="https://merrickmath.github.io/MerrickMath.github.io-D3DataScience2022/Tutorials/Week11.html"> Week 14:  </a> </li> --->
-        <!--- <li><a href="https://merrickmath.github.io/MerrickMath.github.io-D3DataScience2022/Tutorials/Week11.html"> Week 15:  </a> </li> --->
-        <!--- <li><a href="https://merrickmath.github.io/MerrickMath.github.io-D3DataScience2022/Tutorials/Week11.html"> Week 16:  </a> </li> --->
+        <li><a href="https://merrickmath.github.io/MerrickMath.github.io-D3DataScience2022/Tutorials/Tutorial1.html"> March 9: Introducing the tidyverse and ggplot2.  </a> </li>
       </ul>
 </p>
 
@@ -62,6 +49,8 @@ Challenges may be submitted <a href="https://forms.gle/vvuFyD17StgRBZhJ9"> here.
         <li><a href="https://merrickmath.github.io/MerrickMath.github.io-D3DataScience2022/XPBoost/XPBoost1Soln.pdf"> Booster 1 Solutions  </a> </li> 
         <li><a href="https://merrickmath.github.io/MerrickMath.github.io-D3DataScience2022/XPBoost/XPBoost2.pdf"> Booster 2  </a> </li> 
         <li><a href="https://merrickmath.github.io/MerrickMath.github.io-D3DataScience2022/XPBoost/XPBoost2Soln.pdf"> Booster 2 Solutions  </a> </li>
+        <li><a href="https://merrickmath.github.io/MerrickMath.github.io-D3DataScience2022/XPBoost/XPBoost3.pdf"> Booster 3  </a> </li> 
+        <li><a href="https://merrickmath.github.io/MerrickMath.github.io-D3DataScience2022/XPBoost/XPBoost3Soln.pdf"> Booster 3 Solutions  </a> </li>
       </ul>
 </p>
 
