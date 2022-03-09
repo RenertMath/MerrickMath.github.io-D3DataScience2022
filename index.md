@@ -34,8 +34,8 @@ Challenges may be submitted <a href="https://forms.gle/vvuFyD17StgRBZhJ9"> here.
 ### Tutorials 
 <p>
       <ul>
-        <li><a href="https://merrickmath.github.io/MerrickMath.github.io-D3DataScience2022/Tutorials/IntroClass.html"> Week 1: Entering a list of data, and selecting unique values from the list. </a> </li>
-        <li><a href="https://merrickmath.github.io/MerrickMath.github.io-D3DataScience2022/Tutorials/Week2.html"> Week 2: Loading a csv into R, summarizing the mean of a variable, and visualizing with a histogram. </a> </li> 
+        <li><a href="https://merrickmath.github.io/MerrickMath.github.io-D3DataScience2022/Tutorials/IntroClass.html"> February 9: Entering a list of data, and selecting unique values from the list. </a> </li>
+        <li><a href="https://merrickmath.github.io/MerrickMath.github.io-D3DataScience2022/Tutorials/Week2.html"> February 16: Loading a csv into R, summarizing the mean of a variable, and visualizing with a histogram. </a> </li> 
         <li><a href="https://merrickmath.github.io/MerrickMath.github.io-D3DataScience2022/Tutorials/Tutorial1.html"> March 9: Introducing the tidyverse and ggplot2.  </a> </li>
       </ul>
 </p>
