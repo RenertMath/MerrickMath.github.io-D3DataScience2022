@@ -24,6 +24,10 @@ What Data are you interested in exploring? LET ME KNOW!
        <!--- <li><a href="https://merrickmath.github.io/MerrickMath.github.io-D3DataScience2022/Activities/Activity2Soln.pdf"> Exploring Lego  SOLUTIONS </a></li> ---> 
        <li><a href="https://merrickmath.github.io/MerrickMath.github.io-D3DataScience2022/Activities/Activity3.pdf"> Exploring Ted Talks </a> </li> 
        <!--- <li><a href="https://merrickmath.github.io/MerrickMath.github.io-D3DataScience2022/Activities/Activity3Soln.pdf"> Exploring Ted Talks SOLUTIONS </a></li> --->
+       <!---<li><a href="https://merrickmath.github.io/MerrickMath.github.io-D3DataScience2022/Activities/Activity4.pdf"> Exploring Avocados </a> </li> --->
+       <!--- <li><a href="https://merrickmath.github.io/MerrickMath.github.io-D3DataScience2022/Activities/Activity4Soln.pdf"> Exploring Avocados SOLUTIONS </a></li> --->
+       <!---<li><a href="https://merrickmath.github.io/MerrickMath.github.io-D3DataScience2022/Activities/Activity5.pdf"> Exploring Penguins </a> </li> --->
+       <!--- <li><a href="https://merrickmath.github.io/MerrickMath.github.io-D3DataScience2022/Activities/Activity5Soln.pdf"> Exploring Penguins SOLUTIONS </a></li> --->
       </ul>
 </p>
 
