@@ -55,6 +55,8 @@ Challenges may be submitted <a href="https://forms.gle/vvuFyD17StgRBZhJ9"> here.
         <li><a href="https://merrickmath.github.io/MerrickMath.github.io-D3DataScience2022/XPBoost/XPBoost2Soln.pdf"> Booster 2 Solutions  </a> </li>
         <li><a href="https://merrickmath.github.io/MerrickMath.github.io-D3DataScience2022/XPBoost/XPBoost3.pdf"> Booster 3  </a> </li> 
         <li><a href="https://merrickmath.github.io/MerrickMath.github.io-D3DataScience2022/XPBoost/XPBoost3Soln.pdf"> Booster 3 Solutions  </a> </li>
+        <li><a href="https://merrickmath.github.io/MerrickMath.github.io-D3DataScience2022/XPBoost/XPBoost4.pdf"> Booster 4  </a> </li> 
+        <li><a href="https://merrickmath.github.io/MerrickMath.github.io-D3DataScience2022/XPBoost/XPBoost4Soln.pdf"> Booster 4 Solutions  </a> </li>
       </ul>
 </p>
 
