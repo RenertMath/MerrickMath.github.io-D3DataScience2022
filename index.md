@@ -28,6 +28,8 @@ What Data are you interested in exploring? LET ME KNOW!
        <!--- <li><a href="https://merrickmath.github.io/MerrickMath.github.io-D3DataScience2022/Activities/Activity4Soln.pdf"> Exploring Avocados SOLUTIONS </a></li> --->
        <li><a href="https://merrickmath.github.io/MerrickMath.github.io-D3DataScience2022/Activities/Activity5.pdf"> Exploring Penguins </a> </li>
        <!--- <li><a href="https://merrickmath.github.io/MerrickMath.github.io-D3DataScience2022/Activities/Activity5Soln.pdf"> Exploring Penguins SOLUTIONS </a></li> --->
+       <!--- <li><a href="https://merrickmath.github.io/MerrickMath.github.io-D3DataScience2022/Activities/Activity6.pdf"> Exploring Heart Disease </a> </li> --->
+       <!--- <li><a href="https://merrickmath.github.io/MerrickMath.github.io-D3DataScience2022/Activities/Activity6Soln.pdf"> Exploring Heart Disease SOLUTIONS </a></li> --->
       </ul>
 </p>
 
