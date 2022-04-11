@@ -32,6 +32,8 @@ What Data are you interested in exploring? LET ME KNOW!
        <!--- <li><a href="https://merrickmath.github.io/MerrickMath.github.io-D3DataScience2022/Activities/Activity6Soln.pdf"> Exploring Heart Disease SOLUTIONS </a></li> --->
        <!--- <li><a href="https://merrickmath.github.io/MerrickMath.github.io-D3DataScience2022/Activities/Activity7.pdf"> Exploring Books </a> </li>
        <li><a href="https://merrickmath.github.io/MerrickMath.github.io-D3DataScience2022/Activities/Activity7Soln.pdf"> Exploring Books SOLUTIONS </a></li> --->
+       <!--- <li><a href="https://merrickmath.github.io/MerrickMath.github.io-D3DataScience2022/Activities/Activity8.pdf"> Exploring Cardio Fitness </a> </li>
+       <li><a href="https://merrickmath.github.io/MerrickMath.github.io-D3DataScience2022/Activities/Activity8Soln.pdf"> Exploring Cardio Fitness SOLUTIONS </a></li> --->
       </ul>
 </p>
 
