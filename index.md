@@ -38,6 +38,8 @@ What Data are you interested in exploring? LET ME KNOW!
        <li><a href="https://merrickmath.github.io/MerrickMath.github.io-D3DataScience2022/Activities/Activity9Soln.pdf"> Exploring Unicorn Companies SOLUTIONS </a></li> --->
        <!--- <li><a href="https://merrickmath.github.io/MerrickMath.github.io-D3DataScience2022/Activities/Activity10.pdf"> Exploring Video Games </a> </li>
        <li><a href="https://merrickmath.github.io/MerrickMath.github.io-D3DataScience2022/Activities/Activity10Soln.pdf"> Exploring Video Games SOLUTIONS </a></li> --->
+            <!--- <li><a href="https://merrickmath.github.io/MerrickMath.github.io-D3DataScience2022/Activities/Activity11.pdf"> Exploring Movies </a> </li>
+       <li><a href="https://merrickmath.github.io/MerrickMath.github.io-D3DataScience2022/Activities/Activity11Soln.pdf"> Exploring Movies SOLUTIONS </a></li> --->
       </ul>
 </p>
 
