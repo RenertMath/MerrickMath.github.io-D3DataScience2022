@@ -38,8 +38,8 @@ What Data are you interested in exploring? LET ME KNOW!
        <li><a href="https://merrickmath.github.io/MerrickMath.github.io-D3DataScience2022/Activities/Activity9Soln.pdf"> Exploring Unicorn Companies SOLUTIONS </a></li> --->
        <!--- <li><a href="https://merrickmath.github.io/MerrickMath.github.io-D3DataScience2022/Activities/Activity10.pdf"> Exploring Video Games </a> </li>
        <li><a href="https://merrickmath.github.io/MerrickMath.github.io-D3DataScience2022/Activities/Activity10Soln.pdf"> Exploring Video Games SOLUTIONS </a></li> --->
-            <!--- <li><a href="https://merrickmath.github.io/MerrickMath.github.io-D3DataScience2022/Activities/Activity11.pdf"> Exploring Movies </a> </li>
-       <li><a href="https://merrickmath.github.io/MerrickMath.github.io-D3DataScience2022/Activities/Activity11Soln.pdf"> Exploring Movies SOLUTIONS </a></li> --->     
+            <li><a href="https://merrickmath.github.io/MerrickMath.github.io-D3DataScience2022/Activities/Activity11.pdf"> Exploring Movies </a> </li>
+       <!--- <li><a href="https://merrickmath.github.io/MerrickMath.github.io-D3DataScience2022/Activities/Activity11Soln.pdf"> Exploring Movies SOLUTIONS </a></li> --->     
       <li><a href="https://merrickmath.github.io/MerrickMath.github.io-D3DataScience2022/Activities/ResearchProject.pdf"> Research Project </a> </li>
       </ul>
 </p>
@@ -74,9 +74,9 @@ Challenges may be submitted <a href="https://forms.gle/vvuFyD17StgRBZhJ9"> here.
         <li><a href="https://merrickmath.github.io/MerrickMath.github.io-D3DataScience2022/XPBoost/XPBoost5Soln.pdf"> Booster 5 Solutions  </a> </li>
         <li><a href="https://merrickmath.github.io/MerrickMath.github.io-D3DataScience2022/XPBoost/XPBoost7.pdf"> Booster 6  </a> </li> 
         <li><a href="https://merrickmath.github.io/MerrickMath.github.io-D3DataScience2022/XPBoost/XPBoost7Soln.pdf"> Booster 6 Solutions  </a> </li>
-        <!--- <li><a href="https://merrickmath.github.io/MerrickMath.github.io-D3DataScience2022/XPBoost/XPBoost6.pdf"> Booster 7  </a> </li> 
-        <li><a href="https://merrickmath.github.io/MerrickMath.github.io-D3DataScience2022/XPBoost/XPBoost6Soln.pdf"> Booster 7 Solutions  </a> </li> --->
-         <li><a href="https://merrickmath.github.io/MerrickMath.github.io-D3DataScience2022/XPBoost/XPBoost8.pdf"> Booster 8  </a> </li> 
+        <li><a href="https://merrickmath.github.io/MerrickMath.github.io-D3DataScience2022/XPBoost/XPBoost6.pdf"> Booster 7  </a> </li> 
+        <li><a href="https://merrickmath.github.io/MerrickMath.github.io-D3DataScience2022/XPBoost/XPBoost6Soln.pdf"> Booster 7 Solutions  </a> </li> 
+        <li><a href="https://merrickmath.github.io/MerrickMath.github.io-D3DataScience2022/XPBoost/XPBoost8.pdf"> Booster 8  </a> </li> 
         <li><a href="https://merrickmath.github.io/MerrickMath.github.io-D3DataScience2022/XPBoost/XPBoost8Soln.pdf"> Booster 8 Solutions  </a> </li> 
       </ul>
 </p>
