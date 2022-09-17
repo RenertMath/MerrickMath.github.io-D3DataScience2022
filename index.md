@@ -12,7 +12,7 @@ What Data are you interested in exploring? LET ME KNOW!
 
 ---
 
-### Challenges
+### Assignments
 <p>
       <ul>
         <li><a href="https://merrickmath.github.io/MerrickMath.github.io-D3DataScience2022/Activities/SuperHeroIntro.pdf"> Super Hero Intro </a> </li>
@@ -51,6 +51,8 @@ What Data are you interested in exploring? LET ME KNOW!
 Challenges may be submitted <a href="https://forms.gle/vvuFyD17StgRBZhJ9"> here. </a> Please note you may only submit an answer for each assignment ONLY ONCE. 
 
 ---
+### In Class R Files 
+
 
 ### Tutorials 
 <p>
