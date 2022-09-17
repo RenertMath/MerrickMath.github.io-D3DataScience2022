@@ -52,7 +52,11 @@ Challenges may be submitted <a href="https://forms.gle/vvuFyD17StgRBZhJ9"> here.
 
 ---
 ### In Class R Files 
-
+<p>
+      <ul>
+            <li><a href="https://merrickmath.github.io/MerrickMath.github.io-D3DataScience2022/RFiles/Week1.R"> September 15 </a> </li>
+      </ul>
+</p>
 
 ### Tutorials 
 <p>
