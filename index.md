@@ -42,7 +42,7 @@ Many of the challenges will require the use of R Studio. In this course we will 
       </ul>
 </p>
 
----
+
 ### In Class R Files 
 <p>
       <ul>
@@ -52,7 +52,7 @@ Many of the challenges will require the use of R Studio. In this course we will 
 
 ---
 
- <!--- 
+<!--- 
 ### XP Booster 
 <p>
       <ul>
@@ -77,7 +77,6 @@ Many of the challenges will require the use of R Studio. In this course we will 
 </p>
 ---> 
 
----
 
 
 
