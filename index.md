@@ -53,29 +53,16 @@ Many of the challenges will require the use of R Studio. In this course we will 
 ---
 
 <!--- 
-### XP Booster 
+### MiniMath
 <p>
       <ul>
-        <li><a href="https://merrickmath.github.io/MerrickMath.github.io-D3DataScience2022/XPBoost/XPBoost1.pdf"> Booster 1  </a> </li> 
-        <li><a href="https://merrickmath.github.io/MerrickMath.github.io-D3DataScience2022/XPBoost/XPBoost1Soln.pdf"> Booster 1 Solutions  </a> </li> 
-        <li><a href="https://merrickmath.github.io/MerrickMath.github.io-D3DataScience2022/XPBoost/XPBoost2.pdf"> Booster 2  </a> </li> 
-        <li><a href="https://merrickmath.github.io/MerrickMath.github.io-D3DataScience2022/XPBoost/XPBoost2Soln.pdf"> Booster 2 Solutions  </a> </li>
-        <li><a href="https://merrickmath.github.io/MerrickMath.github.io-D3DataScience2022/XPBoost/XPBoost3.pdf"> Booster 3  </a> </li> 
-        <li><a href="https://merrickmath.github.io/MerrickMath.github.io-D3DataScience2022/XPBoost/XPBoost3Soln.pdf"> Booster 3 Solutions  </a> </li>
-        <li><a href="https://merrickmath.github.io/MerrickMath.github.io-D3DataScience2022/XPBoost/XPBoost4.pdf"> Booster 4  </a> </li> 
-        <li><a href="https://merrickmath.github.io/MerrickMath.github.io-D3DataScience2022/XPBoost/XPBoost4Soln.pdf"> Booster 4 Solutions  </a> </li>
-        <li><a href="https://merrickmath.github.io/MerrickMath.github.io-D3DataScience2022/XPBoost/XPBoost5.pdf"> Booster 5  </a> </li> 
-        <li><a href="https://merrickmath.github.io/MerrickMath.github.io-D3DataScience2022/XPBoost/XPBoost5Soln.pdf"> Booster 5 Solutions  </a> </li>
-        <li><a href="https://merrickmath.github.io/MerrickMath.github.io-D3DataScience2022/XPBoost/XPBoost7.pdf"> Booster 6  </a> </li> 
-        <li><a href="https://merrickmath.github.io/MerrickMath.github.io-D3DataScience2022/XPBoost/XPBoost7Soln.pdf"> Booster 6 Solutions  </a> </li>
-        <li><a href="https://merrickmath.github.io/MerrickMath.github.io-D3DataScience2022/XPBoost/XPBoost6.pdf"> Booster 7  </a> </li> 
-        <li><a href="https://merrickmath.github.io/MerrickMath.github.io-D3DataScience2022/XPBoost/XPBoost6Soln.pdf"> Booster 7 Solutions  </a> </li> 
-        <li><a href="https://merrickmath.github.io/MerrickMath.github.io-D3DataScience2022/XPBoost/XPBoost8.pdf"> Booster 8  </a> </li> 
-        <li><a href="https://merrickmath.github.io/MerrickMath.github.io-D3DataScience2022/XPBoost/XPBoost8Soln.pdf"> Booster 8 Solutions  </a> </li> 
+        <li><a href="https://merrickmath.github.io/MerrickMath.github.io-D3DataScience2022/MiniMath/Week1.pdf"> Week 1 </a> </li> 
         
       </ul>
 </p>
 ---> 
+
+
 
 
 
