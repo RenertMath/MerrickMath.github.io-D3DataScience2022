@@ -38,6 +38,7 @@ Many of the challenges will require the use of R Studio. In this course we will 
       <li><a href="https://merrickmath.github.io/MerrickMath.github.io-D3DataScience2022/Activities/Activity12.pdf"> Exploring Fortnite </a> </li>
       <li><a href="https://merrickmath.github.io/MerrickMath.github.io-D3DataScience2022/Activities/Activity12Soln.pdf"> Exploring Fortnite SOLUTIONS </a></li> 
   --->
+            
       </ul>
 </p>
 
