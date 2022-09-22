@@ -11,8 +11,9 @@ Many of the challenges will require the use of R Studio. In this course we will 
       <ul>
         <li><a href="https://merrickmath.github.io/MerrickMath.github.io-D3DataScience2022/Activities/SuperHeroIntro.pdf"> Super Hero Intro </a> </li> 
         <li><a href="https://merrickmath.github.io/MerrickMath.github.io-D3DataScience2022/Activities/Activity1.pdf"> Exploring Music  </a> </li>
-             
-              <!--- <li><a href="https://merrickmath.github.io/MerrickMath.github.io-D3DataScience2022/Activities/Activity1Soln.pdf"> Exploring Music  SOLUTIONS </a></li>   
+            
+        <!---       
+        <li><a href="https://merrickmath.github.io/MerrickMath.github.io-D3DataScience2022/Activities/Activity1Soln.pdf"> Exploring Music  SOLUTIONS </a></li>   
        <li><a href="https://merrickmath.github.io/MerrickMath.github.io-D3DataScience2022/Activities/Activity2.pdf"> Exploring Lego  </a> </li>
        <li><a href="https://merrickmath.github.io/MerrickMath.github.io-D3DataScience2022/Activities/Activity2Soln.pdf"> Exploring Lego  SOLUTIONS </a></li> 
        <li><a href="https://merrickmath.github.io/MerrickMath.github.io-D3DataScience2022/Activities/Activity3.pdf"> Exploring Ted Talks </a> </li> 
