@@ -9,11 +9,10 @@ Many of the challenges will require the use of R Studio. In this course we will 
 ### Assignments
 <p>
       <ul>
-        <li><a href="https://merrickmath.github.io/MerrickMath.github.io-D3DataScience2022/Activities/SuperHeroIntro.pdf"> Super Hero Intro </a> </li>
-        <!--- 
-        <li><a href="https://merrickmath.github.io/MerrickMath.github.io-D2DataScience2022/challenge1.html"> The Road Mordor </a> </li>
-        <li><a href="https://docs.google.com/forms/d/e/1FAIpQLScRTXAveiOzcClXfHB_X2g4RSsnCypqOgUfYm-Tz8H-82S46Q/viewform?usp=sf_link"> First Class Survey (10 XP) </a> </li>
-       <li><a href="https://merrickmath.github.io/MerrickMath.github.io-D3DataScience2022/Activities/Activity1.pdf"> Exploring Music  </a> </li>
+        <li><a href="https://merrickmath.github.io/MerrickMath.github.io-D3DataScience2022/Activities/SuperHeroIntro.pdf"> Super Hero Intro </a> </li> 
+        <li><a href="https://merrickmath.github.io/MerrickMath.github.io-D3DataScience2022/Activities/Activity1.pdf"> Exploring Music  </a> </li>
+            
+       <!--- 
        <li><a href="https://merrickmath.github.io/MerrickMath.github.io-D3DataScience2022/Activities/Activity1Soln.pdf"> Exploring Music  SOLUTIONS </a></li>   
        <li><a href="https://merrickmath.github.io/MerrickMath.github.io-D3DataScience2022/Activities/Activity2.pdf"> Exploring Lego  </a> </li>
        <li><a href="https://merrickmath.github.io/MerrickMath.github.io-D3DataScience2022/Activities/Activity2Soln.pdf"> Exploring Lego  SOLUTIONS </a></li> 
