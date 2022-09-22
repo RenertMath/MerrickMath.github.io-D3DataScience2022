@@ -10,8 +10,10 @@ Many of the challenges will require the use of R Studio. In this course we will 
 <p>
       <ul>
         <li><a href="https://merrickmath.github.io/MerrickMath.github.io-D3DataScience2022/Activities/SuperHeroIntro.pdf"> Super Hero Intro </a> </li> 
-        <li><a href="https://merrickmath.github.io/MerrickMath.github.io-D3DataScience2022/Activities/Activity1.pdf"> Exploring Music  </a> </li>
-            
+        <li><a href="https://merrickmath.github.io/MerrickMath.github.io-D3DataScience2022/Activities/Activity1.pdf"> Exploring Music  </a> </li>    
+      </ul>
+</p>
+
         <!---       
         <li><a href="https://merrickmath.github.io/MerrickMath.github.io-D3DataScience2022/Activities/Activity1Soln.pdf"> Exploring Music  SOLUTIONS </a></li>   
        <li><a href="https://merrickmath.github.io/MerrickMath.github.io-D3DataScience2022/Activities/Activity2.pdf"> Exploring Lego  </a> </li>
@@ -36,12 +38,7 @@ Many of the challenges will require the use of R Studio. In this course we will 
       <li><a href="https://merrickmath.github.io/MerrickMath.github.io-D3DataScience2022/Activities/Activity11Soln.pdf"> Exploring Movies SOLUTIONS </a></li>     
       <li><a href="https://merrickmath.github.io/MerrickMath.github.io-D3DataScience2022/Activities/ResearchProject.pdf"> Research Project </a> </li>
       <li><a href="https://merrickmath.github.io/MerrickMath.github.io-D3DataScience2022/Activities/Activity12.pdf"> Exploring Fortnite </a> </li>
-      <li><a href="https://merrickmath.github.io/MerrickMath.github.io-D3DataScience2022/Activities/Activity12Soln.pdf"> Exploring Fortnite SOLUTIONS </a></li> 
-  --->
-            
-      </ul>
-</p>
-
+      <li><a href="https://merrickmath.github.io/MerrickMath.github.io-D3DataScience2022/Activities/Activity12Soln.pdf"> Exploring Fortnite SOLUTIONS </a></li> --->      
 
 ### In Class R Files 
 <p>
