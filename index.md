@@ -30,10 +30,10 @@ Many of the challenges will require the use of R Studio. In this course we will 
 
 <p>
       <ul>
-        <li><a href="https://merrickmath.github.io/MerrickMath.github.io-D3DataScience2022/MiniMath/Week1.pdf"> Week 1 </a> </li> 
-        <li><a href="https://merrickmath.github.io/MerrickMath.github.io-D3DataScience2022/MiniMath/Week1Soln.pdf"> Week 1 Solutions </a> </li> 
-        <li><a href="https://merrickmath.github.io/MerrickMath.github.io-D3DataScience2022/MiniMath/Week2.pdf"> Week 2 </a> </li> 
-        <li><a href="https://merrickmath.github.io/MerrickMath.github.io-D3DataScience2022/MiniMath/Week2Soln.pdf"> Week 2 Solutions </a>
+        <li> <a href="https://merrickmath.github.io/MerrickMath.github.io-D3DataScience2022/MiniMath/Week1.pdf"> Week 1 </a> </li> 
+        <li> <a href="https://merrickmath.github.io/MerrickMath.github.io-D3DataScience2022/MiniMath/Week1Soln.pdf"> Week 1 Solutions </a> </li> 
+        <li> <a href="https://merrickmath.github.io/MerrickMath.github.io-D3DataScience2022/MiniMath/Week2.pdf"> Week 2 </a> </li> 
+        <li> <a href="https://merrickmath.github.io/MerrickMath.github.io-D3DataScience2022/MiniMath/Week2Soln.pdf">  Week 2 Solutions </a>
       </ul>
 </p>
 
